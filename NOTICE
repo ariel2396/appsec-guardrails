@@ -1,0 +1,12 @@
+appsec-guardrails
+Copyright (c) 2026 Ariel Manriquez
+
+This project is an independent work based on the publicly available
+OWASP Top 10:2025 (https://owasp.org/Top10/2025/).
+
+"OWASP" is a registered trademark of the OWASP Foundation, Inc. This project
+is not endorsed by, sponsored by, or affiliated with the OWASP Foundation.
+References to OWASP categories are made for identification purposes only.
+
+The checklists in this project are guidance. They are provided without
+warranty and do not constitute a security audit or a compliance assessment.
